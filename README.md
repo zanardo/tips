@@ -5,6 +5,7 @@ registradas para não se perderem no esquecimento.
 
 ## linux
 
+* [Hibernar computador via systemd](linux/hibernar-via-systemd.md)
 * [Obter o IP externo de saída para internet](linux/obter-ip-externo.md)
 
 ## xfce
