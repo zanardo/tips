@@ -10,5 +10,6 @@ registradas para não se perderem no esquecimento.
 
 ## xfce
 
+* [Alternar rapidamente entre desktops virtuais](xfce/alternar-rapidamente-desktops.md)
 * [Reordenar aplicativos na barra de janelas](xfce/reordenar-apps-barra.md)
 
